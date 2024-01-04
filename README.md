@@ -1,9 +1,4 @@
 # Documentation Technique Shop Nest
-
-Par Antoine Langevin
-
-Présenté à Dini Ahamada
-
 1<sup>er</sup> décembre 2024
 
 ## Introduction
