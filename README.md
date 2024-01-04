@@ -6,8 +6,6 @@ Présenté à Dini Ahamada
 
 1<sup>er</sup> décembre 2024
 
-<img src="media/image1.png" style="width:2.33333in;height:2.33333in" />
-
 ## Introduction
 
 ShopNest est une application web de type e-shop qui se veut d’être comme
@@ -221,19 +219,19 @@ authentifications.
 
 ### Modélisation de la base de données
 
-<img src="media/image2.png" style="width:7.5in;height:8.38958in" />
+<img src="https://github.com/CupidonSauce173/shopnest/blob/main/diagrammes/database.png" style="width:7.5in;height:8.38958in" />
 
 ### Cas d’utilisation (utilisateur)
 
-<img src="media/image3.png" style="width:7.5in;height:5.93681in" />
+<img src="https://github.com/CupidonSauce173/shopnest/blob/main/diagrammes/cas_utilisateurs.png" style="width:7.5in;height:5.93681in" />
 
 ### Cas d’utilisation (administrateur)
 
-<img src="media/image4.png" style="width:7.5in;height:5.00764in" />
+<img src="https://github.com/CupidonSauce173/shopnest/blob/main/diagrammes/cas_administrateur.png" style="width:7.5in;height:5.00764in" />
 
 ### Cas d’utilisation (marchand)
 
-<img src="media/image5.png" style="width:7.5in;height:4.55347in" />
+<img src="https://github.com/CupidonSauce173/shopnest/blob/main/diagrammes/cas_marchand.png" style="width:7.5in;height:4.55347in" />
 
 ## Sources
 
