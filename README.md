@@ -8,6 +8,8 @@ un clone de **Amazon**. Le site web offre la possibilité aux
 utilisateurs de devenir des marchants et de vendre des produits sur le
 site.
 
+Le plus grand défi est que ce projet ne comporte pas de framework tel que Lavarel, c'est du PHP pure.
+
 ## Spécification technique
 
 ### Version des logiciels
